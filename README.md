@@ -2,7 +2,7 @@
 
 Hi Everyone!
 
-In this section, we are going to cover EJS for html rendering iwth express.js. Basically, whne you need to show a HTML page with the data from backend(express), you need a template engine that handles this for you. And EJS is one of them. 
+In this section, we are going to cover EJS for html rendering with express.js. Basically, whne you need to show a HTML page with the data from backend(express), you need a template engine that handles this for you. And EJS is one of them. 
 
 
 ### Sunday Session
