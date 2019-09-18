@@ -1,0 +1,233 @@
+body#LoginForm {
+    background-image: url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+}
+
+.form-heading {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    margin:50px 0 50px 0 ;
+    text-shadow: 2px 2px #444444;
+    
+}
+
+.panel h2 {
+    color: #444444;
+    font-size: 18px;
+    margin: 0 0 8px 0;
+}
+
+.panel p {
+    color: #777777;
+    font-size: 14px;            
+    line-height: 24px;
+}
+
+.login-form .form-control {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.main-div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 2px;
+    margin: 10px auto 30px;
+    max-width: 38%;
+    padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+    margin-bottom: 10px;
+}
+
+.login-form {
+    text-align: center;
+}
+
+.forgot a {
+    color: #777777;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.login-form .btn.btn-primary {
+    background: #f0ad4e none repeat scroll 0 0;
+    border-color: #f0ad4e;
+    color: #ffffff;
+    font-size: 14px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    padding: 0;
+}
+
+.forgot {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.botto-text {
+    color: #ffffff;
+    font-size: 18px;
+    margin: auto;
+}
+
+.login-form .btn.btn-primary.reset {
+    background: #ff9900 none repeat scroll 0 0;
+}
+
+.back {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.back a {
+    color: #444444;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.image{
+    height: 150px;
+    width: auto;
+    margin-top: 50px
+}
+
+/* to do page */
+html {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+  }
+  
+  h1 {
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .box {
+    max-width: 400px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  }
+  
+  #heading {
+    background-color: #42435F;
+    text-align: center;
+  }
+  
+  .item {
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #F1F1F1;
+  }
+  
+  .item:last-child {
+    border-bottom: 0;
+  }
+  
+  input:checked+p {
+    text-decoration: line-through;
+    text-decoration-color: #42435F;
+  }
+  
+  input[type="checkbox"] {
+    margin: 20px;
+  }
+  
+  p {
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #00204a;
+  }
+  
+  form {
+    text-align: center;
+    margin-left: 20px;
+  }
+  
+  button {
+    min-height: 40px;
+    width: 40px;
+  
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: #42435F;
+    color: #fff;
+    font-size: 20px;
+    padding-bottom: 6px;
+    border-width: 0;
+  }
+  
+  input[id="text"] {
+    text-align: center;
+    height: 60px;
+    top: 10px;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 200;
+    width: 313px;
+  }
+  
+  input[id="text"]:focus {
+    outline: none;
+    box-shadow: inset 0 -3px 0 0 #42435F;
+  }
+  
+  ::placeholder {
+    color: grey;
+    opacity: 1;
+  }
+  
+  footer {
+    color: white;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+  /* NAVBAR */
+
+
+.navbar {
+  width: 100%;
+  
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #42435F;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
