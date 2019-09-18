@@ -1,0 +1,24 @@
+{
+  "name": "week-12-ejs",
+  "version": "1.0.0",
+  "description": "Hi Everyone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeydustaoglu/Week-12-Ejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeydustaoglu/Week-12-Ejs/issues"
+  },
+  "homepage": "https://github.com/zeydustaoglu/Week-12-Ejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
